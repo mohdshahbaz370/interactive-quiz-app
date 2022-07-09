@@ -1,1 +1,1 @@
-# interactive-quiz-app
+# javascript-quiz-project
